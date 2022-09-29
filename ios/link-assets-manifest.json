@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/JosefinSans-Regular.ttf",
+      "sha1": "cde899ddf3a6086a9fed95de0f43af7826bd084b"
+    },
+    {
+      "path": "src/assets/JosefinSans-SemiBold.ttf",
+      "sha1": "c44288eff3bef462af865705575c59cee971c112"
+    },
+    {
+      "path": "src/assets/Prompt-Regular.ttf",
+      "sha1": "04e9ee1c1fd671b495103adca8d528d200caed2e"
+    }
+  ]
+}
